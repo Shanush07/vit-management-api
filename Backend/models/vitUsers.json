@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ramesh Iyer",
+    "department": "Computer Science",
+    "role": "Professor"
+  },
+  {
+    "id": 2,
+    "name": "Sanjana Rao",
+    "department": "Computer Science",
+    "year": "3rd",
+    "role": "Student"
+  },
+  {
+    "id": 3,
+    "name": "Prof. Neha Mehta",
+    "department": "ECE",
+    "role": "Professor"
+  },
+  {
+    "id": 3,
+    "name": "Deepika",
+    "role": "Student",
+    "department": "CSE",
+    "year": "2nd"
+  }
+]
